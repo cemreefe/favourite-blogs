@@ -1,2 +1,8 @@
-# favourite-blogs
-A repository of blogs I'd like to keep an eye on.
+# Blogs i like
+
+## Tech
+
+| Blog                               | RSS feed                                                     |
+| ---------------------------------- | ------------------------------------------------------------ |
+| https://martinfowler.com/          | https://martinfowler.com/feed.atom
+| https://blog.jim-nielsen.com/      | https://blog.jim-nielsen.com/feed.xml
