@@ -8,3 +8,4 @@
 | https://blog.jim-nielsen.com/          | https://blog.jim-nielsen.com/feed.xml                        |
 | https://blog.benjojo.co.uk             | https://blog.benjojo.co.uk/rss.xml                           |
 | https://lists.eatonphil.com/blogs.html | -                                                            |
+| https://alienryderflex.com/stig.shtml  | https://alienryderflex.com/rss.xml                           |
