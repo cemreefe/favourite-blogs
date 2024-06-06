@@ -9,3 +9,4 @@
 | https://blog.benjojo.co.uk             | https://blog.benjojo.co.uk/rss.xml                           |
 | https://lists.eatonphil.com/blogs.html | -                                                            |
 | https://alienryderflex.com/stig.shtml  | https://alienryderflex.com/rss.xml                           |
+| https://edw.is/ | |
