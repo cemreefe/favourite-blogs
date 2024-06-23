@@ -10,3 +10,10 @@
 | https://lists.eatonphil.com/blogs.html | https://notes.eatonphil.com/rss.xml                                                            |
 | https://alienryderflex.com/stig.shtml  | https://alienryderflex.com/rss.xml                           |
 | https://edw.is/ | |
+
+
+## Culture
+
+| Blog | RSS feed | Notes |
+| ---- | -------- | ----- |
+| https://diamondgeezer.blogspot.com | http://diamondgeezer.blogspot.com/atom.xml | London |
