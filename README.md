@@ -17,3 +17,4 @@
 | Blog | RSS feed | Notes |
 | ---- | -------- | ----- |
 | https://diamondgeezer.blogspot.com | http://diamondgeezer.blogspot.com/atom.xml | London |
+| https://www.ianvisits.co.uk/       | https://www.ianvisits.co.uk/articles/feed/ | London |
