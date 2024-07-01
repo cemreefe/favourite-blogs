@@ -11,6 +11,7 @@
 | https://alienryderflex.com/stig.shtml  | https://alienryderflex.com/rss.xml                           |           |
 | https://edw.is/                        |                                                              |           |
 | https://daringfireball.net/            | https://daringfireball.net/feeds/main                        | John Gruber, father of markdown |
+| https://jcs.org/                       | https://jcs.org/rss                                          | retro     |
 
 ## Culture
 
