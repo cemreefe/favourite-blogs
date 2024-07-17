@@ -12,7 +12,7 @@
 | https://edw.is/                        |                                                              |           |
 | https://daringfireball.net/            | https://daringfireball.net/feeds/main                        | John Gruber, father of markdown |
 | https://jcs.org/                       | https://jcs.org/rss                                          | retro     |
-| https://jellis18.github.io             |                                                              | Very clear explanations of itsy bitsy software concepts
+| https://jellis18.github.io             | https://jellis18.github.io/feed.xml                          | Very clear explanations of itsy bitsy software concepts
 
 ## Culture
 
