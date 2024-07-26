@@ -14,9 +14,10 @@
 | https://jcs.org/                       | https://jcs.org/rss                                          | retro     |
 | https://jellis18.github.io             | https://jellis18.github.io/feed.xml                          | Very clear explanations of itsy bitsy software concepts
 
-## Culture
+## Misc
 
 |                Blog                |                   RSS feed                 |  Notes  |
 | ---------------------------------- | ------------------------------------------ | ------- |
 | https://diamondgeezer.blogspot.com | http://diamondgeezer.blogspot.com/atom.xml | London  |
 | https://www.ianvisits.co.uk/       | https://www.ianvisits.co.uk/articles/feed/ | London  |
+| http://www.aaronsw.com/            | http://www.aaronsw.com/weblog/index.xml    |         |
