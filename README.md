@@ -20,4 +20,4 @@
 | ---------------------------------- | ------------------------------------------ | ------- |
 | https://diamondgeezer.blogspot.com | http://diamondgeezer.blogspot.com/atom.xml | London  |
 | https://www.ianvisits.co.uk/       | https://www.ianvisits.co.uk/articles/feed/ | London  |
-| http://www.aaronsw.com/            | http://www.aaronsw.com/weblog/index.xml    |         |
+| http://www.aaronsw.com/            | http://www.aaronsw.com/weblog/index.xml    | †       |
