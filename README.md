@@ -24,3 +24,5 @@
 | https://diamondgeezer.blogspot.com | http://diamondgeezer.blogspot.com/atom.xml | London  |
 | https://www.ianvisits.co.uk/       | https://www.ianvisits.co.uk/articles/feed/ | London  |
 | http://www.aaronsw.com/            | http://www.aaronsw.com/weblog/index.xml    | †       |
+| https://spitalfieldslife.com/      | https://spitalfieldslife.com/feed/atom/    | London  |
+| https://www.islingtonfacesblog.com/| https://www.islingtonfacesblog.com/feed/   | London  |
